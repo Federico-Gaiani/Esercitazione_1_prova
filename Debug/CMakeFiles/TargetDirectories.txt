@@ -1,0 +1,3 @@
+/home/appuser/Data/Esercitazione_1/Esercitazione_1_prova_git/Debug/CMakeFiles/MeanValue.dir
+/home/appuser/Data/Esercitazione_1/Esercitazione_1_prova_git/Debug/CMakeFiles/edit_cache.dir
+/home/appuser/Data/Esercitazione_1/Esercitazione_1_prova_git/Debug/CMakeFiles/rebuild_cache.dir
