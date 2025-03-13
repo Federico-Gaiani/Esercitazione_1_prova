@@ -11,7 +11,7 @@ double cambio_var(double x){
 int main()
 {
 	
-	std::ifstream file("datwa.txt"); // il file deve essere nella cartella debug
+	std::ifstream file("data.txt"); // il file deve essere nella cartella debug
 	if (file.fail()){
 		std::cerr<<"errore nell'apertura del file"<<std::endl;
 		return 1;
